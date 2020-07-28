@@ -1,4 +1,6 @@
 /node_modules
+/webdinsos
+/wdnsds
 /public/hot
 /public/storage
 /storage/*.key
