@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>WDNSDS | Web Developer</title>
 
     <link rel="stylesheet" href="{{asset('css/landing_wbk.css')}}" type="text/css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.7.1/pixi.min.js"></script>
@@ -21,8 +21,6 @@
     <img src="{{asset('assets/black.png')}}" alt="">
 </h1>
 <h4 class="subtitle">WDNSDS</h4>
-
-
 
 
 <script>
